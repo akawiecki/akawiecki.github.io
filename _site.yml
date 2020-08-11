@@ -1,8 +1,23 @@
-name: "my-website"
+name: akawiecki.github.io
+output_dir: '.'
+output:
+  html_document:
+    theme: flatly
+    css: style.css
+    lib_dir: site_libs
+    self_contained: no
 navbar:
-  title: "My Website"
+  title: Anna (a.k.a Ania) Kawiecki
   left:
-    - text: "Home"
-      href: index.html
-    - text: "About"
-      href: about.html
+  - text: Home
+    href: index.html
+  - text: CV
+    href: AKawiecki_CV.html
+  - text: Get in Touch
+    menu:
+    - icon: fa-twitter
+      href: https://twitter.com/aniakawiecki
+    - icon: fa-github
+      href: https://github.com/akawiecki
+    - icon: fa-envelope
+      href: mailto:akawiecki@ucdavis.edu

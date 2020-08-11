@@ -1,11 +1,21 @@
 ---
-title: "Anna (a.k.a Ania) B. Kawiecki"
-author: "Ania Kawiecki"
-date: "8/10/2020"
-output: html_document
----
----
-title: "My Website"
+title: "Ania Kawiecki"
 ---
 
-Hello, Website!
+<div class="index-main">
+  <div class="main-photo"><img src="photos/iqt_flotando.jpeg"></div>
+  <div id="main-text">
+  <div class="inner-text">
+  <h4>PhD student, Epidemiology</h4>
+  <h5>Davis Arbovirus Research and Training (DART)</h5>
+  <h5>UC Davis</h5>
+  </div>
+  </div>
+</div>
+
+
+<div class="bottom-photo"
+><img src="photos/dart_logo.png" style="width:200px;"
+><img src="photos/ucd_logo.png" style="width:200px;"
+><img src="photos/pacvec_logo.png" style="width:250px;"
+></div>
