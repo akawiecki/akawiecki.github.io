@@ -1,6 +1,6 @@
 ---
-title: "Anna Kawiecki CV"
-author: "Anna B. Kawiecki"
+title: "Anna (Ania) Kawiecki CV"
+#author: "Anna B. Kawiecki"
 email: akawiecki@ucdavis.edu
 output:
   pdf_document: default
@@ -32,36 +32,36 @@ I am a veterinarian training as a research epidemiologist with a focus on vector
 
 ## EDUCATION
 
-2018 - present  **Ph.D. Epidemiology**, University of California, Davis - Davis, California
+**2018 - present**  **Ph.D. Epidemiology**, University of California, Davis - Davis, California
 
-2013 - 2017  **M.Sc. Master in Veterinary and Biomedical  Sciences**, Louisiana State University - Baton Rouge, Louisiana  
+**2013 - 2017**  **M.Sc. Master in Veterinary and Biomedical  Sciences**, Louisiana State University - Baton Rouge, Louisiana  
 
-2008 - 2013  **D.V.M**, Universidad Complutense de Madrid - Madrid, Spain
+**2008 - 2013**  **D.V.M**, Universidad Complutense de Madrid - Madrid, Spain
 
 
  ***    
 
 ## EMPLOYMENT    
 
-2018- present **Graduate Student Researcher**, University of California, Davis - Davis, California
+**2018- present** **Graduate Student Researcher**, University of California, Davis - Davis, California
 
 Advisor: Dr. Christopher Barker - Davis, California 
 
 - As a **researcher**, I am working on measuring the efficacy in space and time of ultra-low volume (ULV) indoor spraying as a vector control measure, to inform the optimal implementation of this method. In addition, Iam looking at the feasibility of dengue virus detection in *Aedes aegypti* mosquitos as a dengue surveillance strategy. 
 
 
-2021 - 2021  **COVID-19 Case investigator**, University of California, Davis - Davis, California
+**2021 - 2021**  **COVID-19 Case investigator**, University of California, Davis - Davis, California
 
 - as a **contact tracer** I gained experience collecting human data and communicating with stakeholders regarding COVID-19, and performed contact tracing and case investigations of new COVID-19 cases.
 
-2017- 2018 **Data Systems Analyst**, University of California, Davis - Davis, California
+**2017- 2018** **Data Systems Analyst**, University of California, Davis - Davis, California
 
 Employer: Dr. Amy Morrison - Iquitos, Peru 
 
 - I was a **data manager and analyst** for both a clinical vector control trial (“Spatial Repellents for Arbovirus Control”) and an NIH funded research project (“Quantifying Heterogeneities in Dengue Transmission Dynamics”). I managed project databases and data entry interfaces; wrote computer programming code to manage, clean, and provide data to research collaborators (in R and SQL); ensured quality control for mobile data collection via tablets and smartphones using CommCare; supported daily operations of the surveillance team in Iquitos, Peru; served as a liaison between Spanish-speaking project personnel and research collaborators, especially for the purpose of translating and cleaning data to ensure data quality and interpretability; engaged in research activity for academic publications, particularly in development of data products and documentation.
 
 
-2014-2017 **Graduate Student Researcher**, Louisiana State University - Baton Rouge, Louisiana  
+**2014-2017** **Graduate Student Researcher**, Louisiana State University - Baton Rouge, Louisiana  
 
 Advisor: Dr. Rebecca Christofferson - Baton Rouge, Louisiana 
 
@@ -71,88 +71,103 @@ Advisor: Dr. Rebecca Christofferson - Baton Rouge, Louisiana
 - I also evaluated the vector competence of local *Aedes aegypti* and *Aedes albopictus* mosquitoes to ZIKV and Chikungunya virus (CHIKV), developed and maintained laboratory colonies of field-caught *Aedes aegypti* and *Aedes albopictus*, and became adept at working in Biosafety Level 3 (BSL-3) environments, where most of my experiments took place. 
 
 
-2012-2014 **Undergraduate Student Researcher**, , Universidad Complutense de Madrid - Madrid, Spain
+**2012-2014** **Undergraduate Student Researcher**, , Universidad Complutense de Madrid - Madrid, Spain
 
 Advisor: Gustavo Domínguez Bernal - Madrid, Spain 
 
 - As an **undergraduate student researcher** I participated in the developement of a vaccine against canine Leishmaniasis using an attenuated Salmonella strain as the infection vehicle of a plasmid containing Leishmania antigens into dendritic and macrophage cells. 
 
-*** 
 
-## GRANTS & AWARDS
+### Teaching experience
 
-Applied Modeling for Public Health (AMPH) workshop \hfill 2022
+**2023** Fall Quarter **Teaching Assistant:** Experimental Design and Data Analysis in Pathobiology (PMI 203) 
 
-- Travel funds \hfill Johns Hopkins
+**2021** Fall Quarter **Teaching Assistant:** Experimental Design and Data Analysis in Pathobiology (PMI 203) 
 
-Dissertation Year Fellowship \hfill 2022–2023
+**2020** Winter Quarter **Teaching Assistant:** Quantitative Epidemiology II (EPIDEM 203 )
 
-- 49,300.00$ \hfill U.C. Davis 
-
-
-UC Davis Graduate Research Award \hfill 2020-2021 
-
-- 3,000$ \hfill U.C. Davis 
-
-Online Summer Institute in Statistics and Modeling in Infectious Diseases (SISMID) Scholarship \hfill 2020	
-
-- Attendance funds \hfill University of Washington
-
-Graduate Student Support Program, School of Veterinary Medicine  \hfill 2020–2021    
-
-- 21,000$ \hfill U.C. Davis  
-
-Pacific Southwest Center of Excellence in Vector-borne Diseases fellowship  \hfill 2019-2020  
-
-- 30,000$ \hfill U.C. Davis
-
-Graduate Student Support Program, School of Veterinary Medicine  \hfill 2018–2019    
-
-- 21,000$ \hfill U.C. Davis  
-
-Hannelore-Storz Travel Award \hfill 2016   
-
-- 500$ \hfill Lousiana State University                  
-
-
-Prize for Best Scientific Communication  \hfill 2012     
-
-- 11th Congress of Veterinary and Biomedical Sciences \hfill Universidad Complutense de Madrid  
-
-Erasmus Scholarship \hfill 2010-2011   
-
-- One year study abroad program \hfill Justus-Liebig Universität, Giessen, Germany.              
 
 *** 
 
 ## PUBLICATIONS
 
-[Louis Lambrechts  ,Robert C. Reiner Jr  ,M. Veronica Briesemeister,Patricia Barrera,Kanya C. Long,William H. Elson,Alfonso Vizcarra,Helvio Astete,Isabel Bazan,Crystyan Siles,Stalin Vilcarromero,Mariana Leguia,**Anna B. Kawiecki**,T. Alex Perkins,Alun L. Lloyd,Lance A. Waller,Uriel Kitron,Sarah A. Jenkins,Robert D. Hontz,Wesley R. Campbell,Lauren B. Carrington,Cameron P. Simmons,J. Sonia Ampuero,Gisella Vasquez,John P. Elder,Valerie A. Paz-Soldan,Gonzalo M. Vazquez-Prokopec,Alan L. Rothman,Christopher M. Barker,Thomas W. Scott ,Amy C. Morrison,"Direct mosquito feedings on dengue-2 virus-infected people reveal dynamics of human infectiousness", *PLOS Neglected Tropical Diseases* 2023](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011593)
+[Louis Lambrechts  ,Robert C. Reiner Jr  ,M. Veronica Briesemeister,Patricia Barrera,Kanya C. Long,William H. Elson,Alfonso Vizcarra,Helvio Astete,Isabel Bazan,Crystyan Siles,Stalin Vilcarromero,Mariana Leguia,**Anna B. Kawiecki**,T. Alex Perkins,Alun L. Lloyd,Lance A. Waller,Uriel Kitron,Sarah A. Jenkins,Robert D. Hontz,Wesley R. Campbell,Lauren B. Carrington,Cameron P. Simmons,J. Sonia Ampuero,Gisella Vasquez,John P. Elder,Valerie A. Paz-Soldan,Gonzalo M. Vazquez-Prokopec,Alan L. Rothman,Christopher M. Barker,Thomas W. Scott ,Amy C. Morrison,"**Direct mosquito feedings on dengue-2 virus-infected people reveal dynamics of human infectiousness**", *PLOS Neglected Tropical Diseases* 2023](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011593)
 
-[Amy C. Morrison ,Valerie A. Paz-Soldan,Gonzalo M. Vazquez-Prokopec,Louis Lambrechts,William H. Elson,Patricia Barrera,Helvio Astete,Veronica Briesemeister,Mariana Leguia,Sarah A. Jenkins,Kanya C. Long,**Anna B. Kawiecki**,Robert C. Reiner Jr.,T. Alex Perkins,Alun L. Lloyd,Lance A. Waller,Robert D. Hontz,Steven T. Stoddard,Christopher M. Barker,Uriel Kitron,John P. Elder,Alan L. Rothman,Thomas W. Scott, "Quantifying heterogeneities in arbovirus transmission: Description of the rationale and methodology for a prospective longitudinal study of dengue and Zika virus transmission in Iquitos, Peru (2014–2019)", *PLOS One* 2023](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0273798)
+[Amy C. Morrison ,Valerie A. Paz-Soldan,Gonzalo M. Vazquez-Prokopec,Louis Lambrechts,William H. Elson,Patricia Barrera,Helvio Astete,Veronica Briesemeister,Mariana Leguia,Sarah A. Jenkins,Kanya C. Long,**Anna B. Kawiecki**,Robert C. Reiner Jr.,T. Alex Perkins,Alun L. Lloyd,Lance A. Waller,Robert D. Hontz,Steven T. Stoddard,Christopher M. Barker,Uriel Kitron,John P. Elder,Alan L. Rothman,Thomas W. Scott, "**Quantifying heterogeneities in arbovirus transmission: Description of the rationale and methodology for a prospective longitudinal study of dengue and Zika virus transmission in Iquitos, Peru (2014–2019)**", *PLOS One* 2023](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0273798)
 
-[William H. Elson^ & **Anna B. Kawiecki^**, Marisa A. P. Donnelly, Arnold O. Noriega, Jody K. Simpson, Din Syafruddin, Ismail Ekoprayitno Rozi, Neil F. Lobo, Christopher M. Barker, Thomas W. Scott, Nicole L. Achee^, and Amy C. Morrison^, "Use of mobile data collection systems within large-scale epidemiological field trials: findings and lessons-learned from a vector control trial in Iquitos, Peru", *BMC Public Health* 2022](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-022-14301-7)
+[William H. Elson^ & **Anna B. Kawiecki^**, Marisa A. P. Donnelly, Arnold O. Noriega, Jody K. Simpson, Din Syafruddin, Ismail Ekoprayitno Rozi, Neil F. Lobo, Christopher M. Barker, Thomas W. Scott, Nicole L. Achee^, and Amy C. Morrison^, "**Use of mobile data collection systems within large-scale epidemiological field trials: findings and lessons-learned from a vector control trial in Iquitos, Peru**", *BMC Public Health* 2022](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-022-14301-7)
 
-[Amy C Morrison, Robert C Reiner Jr, William H Elson, Helvio Astete, Carolina Guevara, Clara Del Aguila, Isabel Bazan, Crystyan Siles, Patricia Barrera, **Anna B Kawiecki**, Christopher M Barker, Gissella M Vasquez, Karin Escobedo-Vargas, Carmen Flores-Mendoza, Alfredo A Huaman, Mariana Leguia, Maria E Silva, Sarah A Jenkins, Wesley R Campbell, Eugenio J Abente, Robert D Hontz, Valerie A Paz-Soldan, John P Grieco, Neil F Lobo, Thomas W Scott, Nicole L Achee. "Efficacy of a spatial repellent for control of Aedes-borne virus transmission: A cluster-randomized trial in Iquitos, Peru". *Proceedings of the National Academy of Sciences* 2022](https://pubmed.ncbi.nlm.nih.gov/35737833/)
-
-
-[Elson WH, Reiner RC, Siles C, Bazan I, Vilcarromero S, Riley-Powell AR, **Kawiecki AB**, et al. “Heterogeneity of Dengue Illness in Community-Based Prospective Study, Iquitos, Peru”. *Emerging Infectious Diseases* 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7454099/)
-
-[**Kawiecki, AB**, Mayton EH, Dutuze MF, Goupil BA, Langohr IM, Del Piero F and Christofferson, R. C.  “Tissue tropisms, infection kinetics, histologic lesions, and antibody response of the MR766 strain of Zika virus in a murine model”. *Virology Journal* 2017](https://virologyj.biomedcentral.com/articles/10.1186/s12985-017-0749-x)
-
-[**Kawiecki, AB** and Christofferson, R. C. "Zika-induced antibody response enhances dengue serotype 2 replication in vitro." *Journal of Infectious Diseases* 2016](https://academic.oup.com/jid/article/214/9/1357/2399247)
+[Amy C Morrison, Robert C Reiner Jr, William H Elson, Helvio Astete, Carolina Guevara, Clara Del Aguila, Isabel Bazan, Crystyan Siles, Patricia Barrera, **Anna B Kawiecki**, Christopher M Barker, Gissella M Vasquez, Karin Escobedo-Vargas, Carmen Flores-Mendoza, Alfredo A Huaman, Mariana Leguia, Maria E Silva, Sarah A Jenkins, Wesley R Campbell, Eugenio J Abente, Robert D Hontz, Valerie A Paz-Soldan, John P Grieco, Neil F Lobo, Thomas W Scott, Nicole L Achee. "**Efficacy of a spatial repellent for control of Aedes-borne virus transmission: A cluster-randomized trial in Iquitos, Peru**". *Proceedings of the National Academy of Sciences* 2022](https://pubmed.ncbi.nlm.nih.gov/35737833/)
 
 
-***   
+[William H. Elson, Robert C. Reiner, Crystyan Siles, Isabel Bazan, Stalin Vilcarromero, Amy R. Riley-Powell, **Ania B. Kawiecki**, Helvio Astete, Robert D. Hontz, Chris M. Barker, Gonzalo M. Vazquez-Prokopec, Amy C. Morrison, Thomas W. Scott, John P. Elder, Alan L. Rothman, and Valerie A. Paz-Soldan. “**Heterogeneity of Dengue Illness in Community-Based Prospective Study, Iquitos, Peru”. *Emerging Infectious Diseases* 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7454099/)
 
-## TEACHING EXPERIENCE
+[**Kawiecki, AB**, Mayton EH, Dutuze MF, Goupil BA, Langohr IM, Del Piero F and Christofferson, R. C.  "**Tissue tropisms, infection kinetics, histologic lesions, and antibody response of the MR766 strain of Zika virus in a murine model**". *Virology Journal* 2017](https://virologyj.biomedcentral.com/articles/10.1186/s12985-017-0749-x)
 
-2020 Winter Quarter **Teaching Assistant:** Quantitative Epidemiology II (EPIDEM 203 )
-
-2021 Fall Quarter **Teaching Assistant:** Experimental Design and Data Analysis in Pathobiology (PMI 203) 
+[**Kawiecki, AB** and Christofferson, R. C. "**Zika-induced antibody response enhances dengue serotype 2 replication in vitro**" *Journal of Infectious Diseases* 2016](https://academic.oup.com/jid/article/214/9/1357/2399247)
 
 
 ***   
+
+## GRANTS & AWARDS
+
+**2023** Best Poster Award at GeoVet 2023 - Silvi Marina, Italy
+
+**2023** Short Course on Forecasting for Decision-Making: An Epidemiological & Ecological Perspective 
+
+- $1,500 - Fields Institute in Toronto, Canada
+
+**2023** Graduate Studies Spring Travel Awards
+
+- $1,500 - U.C. Davis
+
+**2023** Designated Emphasis in the Biology of Vector-Borne Diseases (DEBVBD) Graduate Student Travel Award
+
+- $700 - U.C. Davis
+
+**2022** Applied Modeling for Public Health (AMPH) workshop 
+
+- Travel funds - Johns Hopkins
+
+**2022–2023** Dissertation Year Fellowship 
+
+- $49,300.00 - U.C. Davis 
+
+
+**2020-2021** UC Davis Graduate Research Award 
+
+- $3,000 - U.C. Davis 
+
+**2020** Online Summer Institute in Statistics and Modeling in Infectious Diseases (SISMID) Scholarship 	
+
+- Attendance funds - University of Washington
+
+**2020–2021**  Graduate Student Support Program, School of Veterinary Medicine  
+
+- $21,000 -U.C. Davis  
+
+**2019-2020**  Pacific Southwest Center of Excellence in Vector-borne Diseases fellowship
+
+- $30,000 - U.C. Davis
+
+**2018–2019** Graduate Student Support Program, School of Veterinary Medicine 
+
+- $21,000 - U.C. Davis  
+
+**2016** Hannelore-Storz Travel Award 
+
+- $500 - Lousiana State University                  
+
+
+**2012**  Prize for Best Scientific Communication 11th Congress of Veterinary and Biomedical Sciences
+
+- Universidad Complutense de Madrid  
+
+**2010-2011** Erasmus Scholarship 
+
+- One year study abroad program - Justus-Liebig Universität, Giessen, Germany.              
+
+*** 
 
 ## CLINICAL EXPERIENCE
 
@@ -170,39 +185,39 @@ Experience in basic diagnostic procedures and anesthesiology
 
 ### Data science and statistics
 
-2022 PacVec/MVCAC ArcGIS mapping workshop for vector control agencies
+**2022** PacVec/MVCAC ArcGIS mapping workshop for vector control agencies
 
-2020 [Statistical Rethinking 2nd edition homework reworked in R-INLA and the tidyverse](https://akawiecki.github.io/statistical_rethinking_inla/)
+**2020** [Statistical Rethinking 2nd edition homework reworked in R-INLA and the tidyverse](https://akawiecki.github.io/statistical_rethinking_inla/)
 
 ### Science outreach and diversity
 
-2018-2019 [Girls in Outdoor Adventure in Leadership and Science (GOALS) Mentor](https://girlsoutdoorscience.com)
+**2018-2019** [Girls in Outdoor Adventure in Leadership and Science (GOALS) Mentor](https://girlsoutdoorscience.com)
 
 GOALS is a student-led organization at U.C. Davis that promotes field-based science and leadership skills in femme-identifying high school students through a free, immersive two-week backpacking trip to the Sequoia and King’s Canyon National Park. In addition to this trip, GOALS provides the participants with a one-on-one year-long mentoring program that participated in. This program is meant to work on the skills learned on the trip and help the participants with college applications and questions related to future careers in STEM. 
 
 ### Food recovery and community engagement
 
-2020- present Left Lovers
+**2020- present** Left Lovers
 
 Left Lovers is a 501(c)(3) non-profit organization with a mission to reduce food waste, encourage food sharing and promote equal access to healthy food. I am currently on the board of this organization as treasurer. 
 
-2019- present [Davis Freedge](https://tinyurl.com/davisfreedgesmap) 
+**2019- present** [Davis Freedge](https://tinyurl.com/davisfreedgesmap) 
 
 Freedges are community fridges with the goal of making food available to anyone at anytime and to provide  a location to leave leftover food for the community, preventing food waste. 
 
-2019- 2022 [Davis Night Market](https://davisnightmarket.github.io/) 
+**2019- 2022** [Davis Night Market](https://davisnightmarket.github.io/) 
 
 The Davis Night Market is a food recovery organization based in Davis, CA with the goals of reducing food waste, increasing food access, building community, and sustainability. It operates by recovering leftover food from local businesses in the city of Davis and distributing them freely at the central park. I am heavily involved in the operational, outreach and fund-raising activities of this organization.
 
 GRANTS AND AWARDS through the Davis Night Market
 
-  -Global Food Initiative Fellowship \hfill 2021–2022
+**2021–2022** Global Food Initiative Fellowship
 
-$3,000 \hfill U.C. Davis
+- $3,000 - U.C. Davis
 
-  -The Green Fund Initiative (TGIF) \hfill 2020-2022
+**2020-2022**  The Green Fund Initiative (TGIF) 
 
-$4,876.34 \hfill U.C. Davis 
+- $4,876.34 - U.C. Davis 
 
 
 ***  
